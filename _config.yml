@@ -1,5 +1,5 @@
 name: Merlot Theme
-url: http://localhost:4000
+baseurl: http://ZedThree.github.io/merlot-theme-jekyll
 description: a fancy schmancy theme for github pages
 
 permalink: /:year/:month/:day/:title/
