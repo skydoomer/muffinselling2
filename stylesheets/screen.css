@@ -186,6 +186,12 @@ header h1 {
   padding: 14px 20px 0;
 }
 
+header h1 a, header h1 a:hover {
+  font-weight: 800;
+  color: #ece4d8;
+  text-decoration: none;
+}
+
 header h2 {
   background-color: #7c334f;
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
@@ -523,6 +529,10 @@ dd p:first-child {
 #main_content > .header-level-5:first-child,
 #main_content > .header-level-6:first-child {
   margin-top: 0;
+}
+
+.header-level-1 a {
+  color: #7c334f;
 }
 
 .header-level-1 {
