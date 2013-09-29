@@ -1,0 +1,9 @@
+name: Merlot Theme
+url: http://localhost:4000
+description: a fancy schmancy theme for github pages
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+pygments: true
+
+exclude: ['README.md']
