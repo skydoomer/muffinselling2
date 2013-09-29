@@ -3,6 +3,8 @@ Merlot
 
 Merlot is a fancy theme for [Jekyll](http://jekyllrb.com/), adapted from the [GitHub Pages theme](https://github.com/cameronmcefee/merlot) of the same name. I used the [Solar theme](https://github.com/redwallhp/solar-theme-jekyll.git) as a guide to convert the GitHub Pages theme into a more general Jekyll one (in that I essentially just merged the two projects!).
 
+Try it out [here](http://ZedThree.github.io/merlot-theme-jekyll)!
+
 ![screenshot](http://f.cl.ly/items/0Z061j1n293L3I1X350j/Screen%20Shot%202012-04-02%20at%2011.24.15%20AM.png)
 
 
