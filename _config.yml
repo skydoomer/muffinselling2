@@ -1,6 +1,6 @@
-name: Merlot Theme
+name: Muffin Selling
 baseurl: http://ZedThree.github.io/merlot-theme-jekyll
-description: a fancy schmancy theme for github pages
+description: Awesome Deals
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
